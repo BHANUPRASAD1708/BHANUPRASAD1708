@@ -1,0 +1,9 @@
+Design and implement the following circuits in Microwind (transistor-level layouts, simulation & verification):
+
+4-bit Full Adder
+
+8×1 Multiplexer
+
+1-bit Magnitude Comparator
+
+4-bit Serial-In Serial-Out (SISO) Register
